@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "1086070277189",
+    "project_id": "digital-payments-52cac",
+    "storage_bucket": "digital-payments-52cac.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1086070277189:android:f79b886769286e91f68f2c",
+        "android_client_info": {
+          "package_name": "com.getdigitalpayments"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCiqxuM2cVSi5R6uml8sCV9LLKxAd_aWNM"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

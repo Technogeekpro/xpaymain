@@ -1,0 +1,30 @@
+{
+  "flutter": {
+    "platforms": {
+      "android": {
+        "default": {
+          "projectId": "digital-payments-52cac",
+          "appId": "1:1086070277189:android:f79b886769286e91f68f2c",
+          "fileOutput": "android/app/google-services.json"
+        }
+      },
+      "ios": {
+        "default": {
+          "projectId": "digital-payments-52cac",
+          "appId": "1:1086070277189:ios:e22b56ae65469b23f68f2c",
+          "uploadDebugSymbols": false,
+          "fileOutput": "ios/Runner/GoogleService-Info.plist"
+        }
+      },
+      "dart": {
+        "lib/firebase_options.dart": {
+          "projectId": "digital-payments-52cac",
+          "configurations": {
+            "android": "1:1086070277189:android:f79b886769286e91f68f2c",
+            "ios": "1:1086070277189:ios:e22b56ae65469b23f68f2c"
+          }
+        }
+      }
+    }
+  }
+}
